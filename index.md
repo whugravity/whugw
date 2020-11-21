@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Goup Meeting 11/19/2020
 
-You can use the [editor on GitHub](https://github.com/whu-gravity/whugw/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Attendees
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***Fan Xilong, You Zhiqiang, He Xianlong, Gong Yi, Du Shen-shi, Zhao Yifei, Yuan Yong***
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Everyone gives a summary of their last week.
 
-```markdown
-Syntax highlighted code block
+Yuan Yong and Du Shen-shi modify their paper. He Xianlong, Du Shen-shi, and Zhao Yifei learn the preliminary knowledge of general relativity. Gong Yi calculate the energy of gravitational waves of binary black holes in Kerr spacetime. Zhao Yifei do literature reading of dark energy.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whu-gravity/whugw/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### He Xianlong gives a review of the gravitational lens. 
