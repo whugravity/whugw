@@ -1,10 +1,19 @@
-# Goup Meeting 11/26/2020
+# Group Meeting 3/12/2020
+
+## Attendees
+
+***Fan Xilong, Jia Junji, You Zhiqiang, He Xianlong, Gong Yi, Du Shen-shi, Zhao Yifei, Zhan Shihong, Li Pengbo, Liu Haotian, Wu Hanji, Huang Ke***
+
+
+---
+
+# Group Meeting 11/26/2020
 
 ## Attendees
 
 ***Fan Xilong, You Zhiqiang, He Xianlong, Gong Yi, Du Shen-shi, Zhao Yifei, Yuan Yong, Zhan Shihong, Jiang Xiaoming, Li Pengbo, Liu Haotian, Yang Lilan***
 
-You Zhiqiang gives a talk about gravitational wave data processing. How to limit the cosmological parameters by hierarchical Bayesian models and gives tutorials of pp plot.
+You Zhiqiang gives a talk about gravitational wave data processing. How to limit the cosmological parameters by hierarchical Bayesian models and he gives tutorials of pp plot.
 
 ---
 
