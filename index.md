@@ -1,3 +1,12 @@
+# Group Meeting 11/12/2020
+
+## Attendees
+
+***Fan Xilong, Chen Yun, You Zhiqiang, He Xianlong, Gong Yi, Du Shen-shi, Zhao Yifei, Yang Lilan, Jiang Xiaoming***
+
+
+---
+
 # Group Meeting 3/12/2020
 
 ## Attendees
