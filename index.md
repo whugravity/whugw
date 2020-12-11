@@ -16,7 +16,7 @@
 
 ---
 
-# Group Meeting 11/26/2020
+# Group Meeting 26/11/2020
 
 ## Attendees
 
@@ -29,7 +29,7 @@ You Zhiqiang gives a talk about gravitational wave data processing. How to limit
 
 
 
-# Goup Meeting 11/19/2020
+# Goup Meeting 19/11/2020
 
 ## Attendees
 
